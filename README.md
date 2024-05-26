@@ -6,10 +6,6 @@ Welcome to the **CoLoSSI** project repository! This repository contains the impl
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
